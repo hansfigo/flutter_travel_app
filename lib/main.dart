@@ -64,7 +64,7 @@ class HomeScreen extends StatelessWidget {
                       ),
                       Text('this date/time', style: poppinsRegular.copyWith(
                         fontSize: SizeConfig.blockSizeHorizontal!*3,
-                        color: grey
+                        color: grey,
                       )),
                     ],
                   ),
